@@ -1,7 +1,7 @@
 # sistema_de_cadastro
 ## Projeto Final do módulo de Lógica de programação do Santander Coders 2023
 
-O objetivo era construir um sistema de cadastro de pessoas. Ele precisou atender aos seguintes requisitos:
+O objetivo era construir um sistema de cadastro de pessoas em Python. Ele precisou atender aos seguintes requisitos:
 
 
 ## Menu principal
